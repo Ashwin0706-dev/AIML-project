@@ -1,0 +1,527 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.89429999999999,
+            11.38
+          ],
+          [
+            77.89852,
+            11.38
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-001",
+        "road_type": "Main Road",
+        "width_meters": 12.0,
+        "confidence": 0.943,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.89429999999999,
+            11.381400000000001
+          ],
+          [
+            77.89852,
+            11.381400000000001
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-002",
+        "road_type": "Main Road",
+        "width_meters": 12.0,
+        "confidence": 0.955,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.89429999999999,
+            11.3829
+          ],
+          [
+            77.89852,
+            11.3829
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-003",
+        "road_type": "Main Road",
+        "width_meters": 12.0,
+        "confidence": 0.987,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.8945,
+            11.379800000000001
+          ],
+          [
+            77.8945,
+            11.3831
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-004",
+        "road_type": "Main Road",
+        "width_meters": 10.0,
+        "confidence": 0.954,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.8962,
+            11.379800000000001
+          ],
+          [
+            77.8962,
+            11.3831
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-005",
+        "road_type": "Main Road",
+        "width_meters": 10.0,
+        "confidence": 0.946,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.89831999999998,
+            11.379800000000001
+          ],
+          [
+            77.89831999999998,
+            11.3831
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-006",
+        "road_type": "Main Road",
+        "width_meters": 10.0,
+        "confidence": 0.964,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.8945,
+            11.380270000000001
+          ],
+          [
+            77.89832,
+            11.380270000000001
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-007",
+        "road_type": "Local Road",
+        "width_meters": 7.0,
+        "confidence": 0.85,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.8945,
+            11.38054
+          ],
+          [
+            77.89832,
+            11.38054
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-008",
+        "road_type": "Local Road",
+        "width_meters": 7.0,
+        "confidence": 0.876,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.8945,
+            11.380810000000002
+          ],
+          [
+            77.89832,
+            11.380810000000002
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-009",
+        "road_type": "Local Road",
+        "width_meters": 7.0,
+        "confidence": 0.871,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.8945,
+            11.38108
+          ],
+          [
+            77.89832,
+            11.38108
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-010",
+        "road_type": "Local Road",
+        "width_meters": 7.0,
+        "confidence": 0.911,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.8945,
+            11.38162
+          ],
+          [
+            77.89832,
+            11.38162
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-011",
+        "road_type": "Local Road",
+        "width_meters": 7.0,
+        "confidence": 0.888,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.8945,
+            11.38189
+          ],
+          [
+            77.89832,
+            11.38189
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-012",
+        "road_type": "Local Road",
+        "width_meters": 7.0,
+        "confidence": 0.935,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.8945,
+            11.38216
+          ],
+          [
+            77.89832,
+            11.38216
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-013",
+        "road_type": "Local Road",
+        "width_meters": 7.0,
+        "confidence": 0.934,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.8945,
+            11.382430000000001
+          ],
+          [
+            77.89832,
+            11.382430000000001
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-014",
+        "road_type": "Local Road",
+        "width_meters": 7.0,
+        "confidence": 0.882,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.89482,
+            11.380186051112911
+          ],
+          [
+            77.89482,
+            11.382755791929316
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-015",
+        "road_type": "Lane",
+        "width_meters": 4.5,
+        "confidence": 0.821,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.89546,
+            11.38017840678463
+          ],
+          [
+            77.89546,
+            11.382705156767686
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-016",
+        "road_type": "Lane",
+        "width_meters": 4.5,
+        "confidence": 0.857,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.89674,
+            11.380112910827638
+          ],
+          [
+            77.89674,
+            11.382770348565968
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-017",
+        "road_type": "Lane",
+        "width_meters": 4.5,
+        "confidence": 0.845,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.89738,
+            11.380116772956796
+          ],
+          [
+            77.89738,
+            11.382677181496119
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-018",
+        "road_type": "Lane",
+        "width_meters": 4.5,
+        "confidence": 0.835,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.89542370929378,
+            11.3825113593369
+          ],
+          [
+            77.89562370929379,
+            11.3826113593369
+          ],
+          [
+            77.89577370929378,
+            11.3827613593369
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-019",
+        "road_type": "Pathway",
+        "width_meters": 2.0,
+        "confidence": 0.909,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.89651652564581,
+            11.38165457414826
+          ],
+          [
+            77.89671652564581,
+            11.38175457414826
+          ],
+          [
+            77.8968665256458,
+            11.38190457414826
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-020",
+        "road_type": "Pathway",
+        "width_meters": 2.0,
+        "confidence": 0.819,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.8973743462148,
+            11.381519462824329
+          ],
+          [
+            77.89757434621481,
+            11.381619462824329
+          ],
+          [
+            77.8977243462148,
+            11.381769462824328
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-021",
+        "road_type": "Pathway",
+        "width_meters": 2.0,
+        "confidence": 0.807,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.89700223094773,
+            11.380690842984594
+          ],
+          [
+            77.89720223094774,
+            11.380790842984593
+          ],
+          [
+            77.89735223094773,
+            11.380940842984593
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": "R-022",
+        "road_type": "Pathway",
+        "width_meters": 2.0,
+        "confidence": 0.802,
+        "source": "Demo AI Prediction"
+      }
+    }
+  ]
+}

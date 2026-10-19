@@ -1,0 +1,39 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Python Environments & Cache
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Node & Frontend Build
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Model Weights & Raw Datasets
+models/*.pt
+models/*.pth
+models/*.onnx
+models/*.engine
+*.pt
+*.pth
+*.onnx
+ai/datasets/raw/*
+
+# Local Storage, Outputs, Temporary Files
+data/outputs/*
+*.log
+.DS_Store
+Thumbs.db

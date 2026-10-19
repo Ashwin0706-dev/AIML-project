@@ -1,0 +1,2551 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8947455797647,
+              11.380035048894591
+            ],
+            [
+              77.8947455797647,
+              11.3801814815856
+            ],
+            [
+              77.89455713656625,
+              11.3801814815856
+            ],
+            [
+              77.89455713656625,
+              11.380035048894591
+            ],
+            [
+              77.8947455797647,
+              11.380035048894591
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-001",
+        "parcel_id": "P-001",
+        "building_type": "Commercial Complex",
+        "area": 331.1,
+        "confidence": 0.96,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89609947188751,
+              11.380034237530388
+            ],
+            [
+              77.89609947188751,
+              11.380175157181371
+            ],
+            [
+              77.89589540367778,
+              11.380175157181371
+            ],
+            [
+              77.89589540367778,
+              11.380034237530388
+            ],
+            [
+              77.89609947188751,
+              11.380034237530388
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-002",
+        "parcel_id": "P-005",
+        "building_type": "Public Office",
+        "area": 345.1,
+        "confidence": 0.872,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89691344210448,
+              11.380086303240084
+            ],
+            [
+              77.89691344210448,
+              11.380232442607653
+            ],
+            [
+              77.89670605933875,
+              11.380232442607653
+            ],
+            [
+              77.89670605933875,
+              11.380086303240084
+            ],
+            [
+              77.89691344210448,
+              11.380086303240084
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-003",
+        "parcel_id": "P-007",
+        "building_type": "Commercial Complex",
+        "area": 363.7,
+        "confidence": 0.874,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89751871644418,
+              11.380037408818636
+            ],
+            [
+              77.89751871644418,
+              11.380177435814856
+            ],
+            [
+              77.89737223865909,
+              11.380177435814856
+            ],
+            [
+              77.89737223865909,
+              11.380037408818636
+            ],
+            [
+              77.89751871644418,
+              11.380037408818636
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-004",
+        "parcel_id": "P-009",
+        "building_type": "Residential Dwelling",
+        "area": 246.1,
+        "confidence": 0.951,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8979254931078,
+              11.380056267220459
+            ],
+            [
+              77.8979254931078,
+              11.380190432258441
+            ],
+            [
+              77.89772837168586,
+              11.380190432258441
+            ],
+            [
+              77.89772837168586,
+              11.380056267220459
+            ],
+            [
+              77.8979254931078,
+              11.380056267220459
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-005",
+        "parcel_id": "P-010",
+        "building_type": "Residential Dwelling",
+        "area": 317.4,
+        "confidence": 0.864,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89579401968992,
+              11.38029358732502
+            ],
+            [
+              77.89579401968992,
+              11.38042422107471
+            ],
+            [
+              77.89561931081593,
+              11.38042422107471
+            ],
+            [
+              77.89561931081593,
+              11.38029358732502
+            ],
+            [
+              77.89579401968992,
+              11.38029358732502
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-006",
+        "parcel_id": "P-015",
+        "building_type": "Residential Dwelling",
+        "area": 273.9,
+        "confidence": 0.863,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89609180222297,
+              11.380326913414809
+            ],
+            [
+              77.89609180222297,
+              11.38046814923682
+            ],
+            [
+              77.89592218071839,
+              11.38046814923682
+            ],
+            [
+              77.89592218071839,
+              11.380326913414809
+            ],
+            [
+              77.89609180222297,
+              11.380326913414809
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-007",
+        "parcel_id": "P-016",
+        "building_type": "Residential Dwelling",
+        "area": 287.5,
+        "confidence": 0.955,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89648350786779,
+              11.380311951452743
+            ],
+            [
+              77.89648350786779,
+              11.380447764413166
+            ],
+            [
+              77.8962784533599,
+              11.380447764413166
+            ],
+            [
+              77.8962784533599,
+              11.380311951452743
+            ],
+            [
+              77.89648350786779,
+              11.380311951452743
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-008",
+        "parcel_id": "P-017",
+        "building_type": "Residential Dwelling",
+        "area": 334.2,
+        "confidence": 0.875,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89688426833328,
+              11.380344731797553
+            ],
+            [
+              77.89688426833328,
+              11.380481328758313
+            ],
+            [
+              77.8966825155732,
+              11.380481328758313
+            ],
+            [
+              77.8966825155732,
+              11.380344731797553
+            ],
+            [
+              77.89688426833328,
+              11.380344731797553
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-009",
+        "parcel_id": "P-018",
+        "building_type": "Residential Dwelling",
+        "area": 330.7,
+        "confidence": 0.87,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89754174831994,
+              11.380341071276346
+            ],
+            [
+              77.89754174831994,
+              11.380490688725583
+            ],
+            [
+              77.89734160262788,
+              11.380490688725583
+            ],
+            [
+              77.89734160262788,
+              11.380341071276346
+            ],
+            [
+              77.89754174831994,
+              11.380341071276346
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-010",
+        "parcel_id": "P-020",
+        "building_type": "Residential Dwelling",
+        "area": 359.3,
+        "confidence": 0.946,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89797023373181,
+              11.380282228605173
+            ],
+            [
+              77.89797023373181,
+              11.380454992206229
+            ],
+            [
+              77.89776866617134,
+              11.380454992206229
+            ],
+            [
+              77.89776866617134,
+              11.380282228605173
+            ],
+            [
+              77.89797023373181,
+              11.380282228605173
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-011",
+        "parcel_id": "P-021",
+        "building_type": "Residential Dwelling",
+        "area": 417.9,
+        "confidence": 0.916,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89477206129428,
+              11.38055403506756
+            ],
+            [
+              77.89477206129428,
+              11.380702213463806
+            ],
+            [
+              77.89461900157517,
+              11.380702213463806
+            ],
+            [
+              77.89461900157517,
+              11.38055403506756
+            ],
+            [
+              77.89477206129428,
+              11.38055403506756
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-012",
+        "parcel_id": "P-023",
+        "building_type": "Residential Dwelling",
+        "area": 272.2,
+        "confidence": 0.869,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89510078477677,
+              11.380574918744745
+            ],
+            [
+              77.89510078477677,
+              11.380750893931847
+            ],
+            [
+              77.89489665056952,
+              11.380750893931847
+            ],
+            [
+              77.89489665056952,
+              11.380574918744745
+            ],
+            [
+              77.89510078477677,
+              11.380574918744745
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-013",
+        "parcel_id": "P-024",
+        "building_type": "Residential Dwelling",
+        "area": 431.1,
+        "confidence": 0.899,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89540518266473,
+              11.380538339047376
+            ],
+            [
+              77.89540518266473,
+              11.380687281954165
+            ],
+            [
+              77.89522299409361,
+              11.380687281954165
+            ],
+            [
+              77.89522299409361,
+              11.380538339047376
+            ],
+            [
+              77.89540518266473,
+              11.380538339047376
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-014",
+        "parcel_id": "P-025",
+        "building_type": "Residential Dwelling",
+        "area": 325.6,
+        "confidence": 0.899,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89584943461111,
+              11.380561115220463
+            ],
+            [
+              77.89584943461111,
+              11.380712696788347
+            ],
+            [
+              77.89569045796138,
+              11.380712696788347
+            ],
+            [
+              77.89569045796138,
+              11.380561115220463
+            ],
+            [
+              77.89584943461111,
+              11.380561115220463
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-015",
+        "parcel_id": "P-026",
+        "building_type": "Residential Dwelling",
+        "area": 289.2,
+        "confidence": 0.893,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89613009445242,
+              11.380560144547992
+            ],
+            [
+              77.89613009445242,
+              11.380695708071338
+            ],
+            [
+              77.89594226696595,
+              11.380695708071338
+            ],
+            [
+              77.89594226696595,
+              11.380560144547992
+            ],
+            [
+              77.89613009445242,
+              11.380560144547992
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-016",
+        "parcel_id": "P-027",
+        "building_type": "Residential Dwelling",
+        "area": 305.6,
+        "confidence": 0.946,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89686123011896,
+              11.380581384299553
+            ],
+            [
+              77.89686123011896,
+              11.380732819171484
+            ],
+            [
+              77.89669131266082,
+              11.380732819171484
+            ],
+            [
+              77.89669131266082,
+              11.380581384299553
+            ],
+            [
+              77.89686123011896,
+              11.380581384299553
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-017",
+        "parcel_id": "P-029",
+        "building_type": "Residential Dwelling",
+        "area": 308.8,
+        "confidence": 0.899,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89747373745537,
+              11.380565857016675
+            ],
+            [
+              77.89747373745537,
+              11.380739998619363
+            ],
+            [
+              77.89731730623798,
+              11.380739998619363
+            ],
+            [
+              77.89731730623798,
+              11.380565857016675
+            ],
+            [
+              77.89747373745537,
+              11.380565857016675
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-018",
+        "parcel_id": "P-031",
+        "building_type": "Residential Dwelling",
+        "area": 326.9,
+        "confidence": 0.928,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89821906090732,
+              11.380566142732969
+            ],
+            [
+              77.89821906090732,
+              11.380731238472388
+            ],
+            [
+              77.89805076144877,
+              11.380731238472388
+            ],
+            [
+              77.89805076144877,
+              11.380566142732969
+            ],
+            [
+              77.89821906090732,
+              11.380566142732969
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-019",
+        "parcel_id": "P-033",
+        "building_type": "Residential Dwelling",
+        "area": 333.4,
+        "confidence": 0.926,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89510365013201,
+              11.380914656176484
+            ],
+            [
+              77.89510365013201,
+              11.381058747264921
+            ],
+            [
+              77.89482546069111,
+              11.381058747264921
+            ],
+            [
+              77.89482546069111,
+              11.380914656176484
+            ],
+            [
+              77.89510365013201,
+              11.380914656176484
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-020",
+        "parcel_id": "P-035",
+        "building_type": "Residential Dwelling",
+        "area": 481.0,
+        "confidence": 0.869,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89609693665386,
+              11.380949069968885
+            ],
+            [
+              77.89609693665386,
+              11.38108904394071
+            ],
+            [
+              77.89592571681999,
+              11.38108904394071
+            ],
+            [
+              77.89592571681999,
+              11.380949069968885
+            ],
+            [
+              77.89609693665386,
+              11.380949069968885
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-021",
+        "parcel_id": "P-038",
+        "building_type": "Residential Dwelling",
+        "area": 287.6,
+        "confidence": 0.907,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89649223811259,
+              11.380925911258924
+            ],
+            [
+              77.89649223811259,
+              11.381095169895275
+            ],
+            [
+              77.89631582578859,
+              11.381095169895275
+            ],
+            [
+              77.89631582578859,
+              11.380925911258924
+            ],
+            [
+              77.89649223811259,
+              11.380925911258924
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-022",
+        "parcel_id": "P-039",
+        "building_type": "Residential Dwelling",
+        "area": 358.3,
+        "confidence": 0.867,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8968723070241,
+              11.380935137583634
+            ],
+            [
+              77.8968723070241,
+              11.381078279612442
+            ],
+            [
+              77.89667972726825,
+              11.381078279612442
+            ],
+            [
+              77.89667972726825,
+              11.380935137583634
+            ],
+            [
+              77.8968723070241,
+              11.380935137583634
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-023",
+        "parcel_id": "P-040",
+        "building_type": "Residential Dwelling",
+        "area": 330.8,
+        "confidence": 0.889,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89720345054975,
+              11.380923647742323
+            ],
+            [
+              77.89720345054975,
+              11.381050335947835
+            ],
+            [
+              77.89700530955291,
+              11.381050335947835
+            ],
+            [
+              77.89700530955291,
+              11.380923647742323
+            ],
+            [
+              77.89720345054975,
+              11.380923647742323
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-024",
+        "parcel_id": "P-041",
+        "building_type": "Residential Dwelling",
+        "area": 301.2,
+        "confidence": 0.973,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89797315232629,
+              11.380934852467242
+            ],
+            [
+              77.89797315232629,
+              11.381086509354416
+            ],
+            [
+              77.8977839499572,
+              11.381086509354416
+            ],
+            [
+              77.8977839499572,
+              11.380934852467242
+            ],
+            [
+              77.89797315232629,
+              11.380934852467242
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-025",
+        "parcel_id": "P-043",
+        "building_type": "Residential Dwelling",
+        "area": 344.3,
+        "confidence": 0.891,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89801515049412,
+              11.380912989568465
+            ],
+            [
+              77.89801515049412,
+              11.381080887038648
+            ],
+            [
+              77.89800549215921,
+              11.381080887038648
+            ],
+            [
+              77.89800549215921,
+              11.380912989568465
+            ],
+            [
+              77.89801515049412,
+              11.380912989568465
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-026",
+        "parcel_id": "P-044",
+        "building_type": "Residential Dwelling",
+        "area": 19.5,
+        "confidence": 0.953,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89476935512448,
+              11.381182319565673
+            ],
+            [
+              77.89476935512448,
+              11.381344729642924
+            ],
+            [
+              77.8945726960158,
+              11.381344729642924
+            ],
+            [
+              77.8945726960158,
+              11.381182319565673
+            ],
+            [
+              77.89476935512448,
+              11.381182319565673
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-027",
+        "parcel_id": "P-045",
+        "building_type": "Commercial Complex",
+        "area": 383.3,
+        "confidence": 0.93,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89505903725512,
+              11.381215350626315
+            ],
+            [
+              77.89505903725512,
+              11.381363885337771
+            ],
+            [
+              77.89485860741256,
+              11.381363885337771
+            ],
+            [
+              77.89485860741256,
+              11.381215350626315
+            ],
+            [
+              77.89505903725512,
+              11.381215350626315
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-028",
+        "parcel_id": "P-046",
+        "building_type": "Residential Dwelling",
+        "area": 357.2,
+        "confidence": 0.877,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89539210695231,
+              11.381179802972273
+            ],
+            [
+              77.89539210695231,
+              11.381342678394276
+            ],
+            [
+              77.89519017278599,
+              11.381342678394276
+            ],
+            [
+              77.89519017278599,
+              11.381179802972273
+            ],
+            [
+              77.89539210695231,
+              11.381179802972273
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-029",
+        "parcel_id": "P-047",
+        "building_type": "Commercial Complex",
+        "area": 394.7,
+        "confidence": 0.907,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89583647992842,
+              11.381191910133147
+            ],
+            [
+              77.89583647992842,
+              11.381360409446554
+            ],
+            [
+              77.89564411933029,
+              11.381360409446554
+            ],
+            [
+              77.89564411933029,
+              11.381191910133147
+            ],
+            [
+              77.89583647992842,
+              11.381191910133147
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-030",
+        "parcel_id": "P-048",
+        "building_type": "Public Office",
+        "area": 389.0,
+        "confidence": 0.904,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8960830112634,
+              11.381174303747661
+            ],
+            [
+              77.8960830112634,
+              11.381317402059748
+            ],
+            [
+              77.89591072310398,
+              11.381317402059748
+            ],
+            [
+              77.89591072310398,
+              11.381174303747661
+            ],
+            [
+              77.8960830112634,
+              11.381174303747661
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-031",
+        "parcel_id": "P-049",
+        "building_type": "Residential Dwelling",
+        "area": 295.8,
+        "confidence": 0.889,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89609460116998,
+              11.38121234696242
+            ],
+            [
+              77.89609460116998,
+              11.381379765208488
+            ],
+            [
+              77.895924862544,
+              11.381379765208488
+            ],
+            [
+              77.895924862544,
+              11.38121234696242
+            ],
+            [
+              77.89609460116998,
+              11.38121234696242
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-032",
+        "parcel_id": "P-050",
+        "building_type": "Residential Dwelling",
+        "area": 341.0,
+        "confidence": 0.891,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8974707844099,
+              11.381179714890498
+            ],
+            [
+              77.8974707844099,
+              11.381313692425122
+            ],
+            [
+              77.89728666600583,
+              11.381313692425122
+            ],
+            [
+              77.89728666600583,
+              11.381179714890498
+            ],
+            [
+              77.8974707844099,
+              11.381179714890498
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-033",
+        "parcel_id": "P-053",
+        "building_type": "Residential Dwelling",
+        "area": 296.0,
+        "confidence": 0.878,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89472258700886,
+              11.3814699115663
+            ],
+            [
+              77.89472258700886,
+              11.38159906162305
+            ],
+            [
+              77.89452484932458,
+              11.38159906162305
+            ],
+            [
+              77.89452484932458,
+              11.3814699115663
+            ],
+            [
+              77.89472258700886,
+              11.3814699115663
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-034",
+        "parcel_id": "P-056",
+        "building_type": "Public Office",
+        "area": 306.5,
+        "confidence": 0.945,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89508432415992,
+              11.38144245852953
+            ],
+            [
+              77.89508432415992,
+              11.381565495818547
+            ],
+            [
+              77.89490148487812,
+              11.381565495818547
+            ],
+            [
+              77.89490148487812,
+              11.38144245852953
+            ],
+            [
+              77.89508432415992,
+              11.38144245852953
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-035",
+        "parcel_id": "P-057",
+        "building_type": "Commercial Complex",
+        "area": 270.0,
+        "confidence": 0.909,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89644161439519,
+              11.381443066203712
+            ],
+            [
+              77.89644161439519,
+              11.381565612752626
+            ],
+            [
+              77.89629392532439,
+              11.381565612752626
+            ],
+            [
+              77.89629392532439,
+              11.381443066203712
+            ],
+            [
+              77.89644161439519,
+              11.381443066203712
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-036",
+        "parcel_id": "P-061",
+        "building_type": "Residential Dwelling",
+        "area": 217.2,
+        "confidence": 0.908,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8971594741449,
+              11.38148839655282
+            ],
+            [
+              77.8971594741449,
+              11.38161010884352
+            ],
+            [
+              77.8970062724409,
+              11.38161010884352
+            ],
+            [
+              77.8970062724409,
+              11.38148839655282
+            ],
+            [
+              77.8971594741449,
+              11.38148839655282
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-037",
+        "parcel_id": "P-063",
+        "building_type": "Commercial Complex",
+        "area": 223.8,
+        "confidence": 0.934,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89818489072879,
+              11.381494365533667
+            ],
+            [
+              77.89818489072879,
+              11.381618805855119
+            ],
+            [
+              77.89803777197024,
+              11.381618805855119
+            ],
+            [
+              77.89803777197024,
+              11.381494365533667
+            ],
+            [
+              77.89818489072879,
+              11.381494365533667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-038",
+        "parcel_id": "P-066",
+        "building_type": "Residential Dwelling",
+        "area": 219.7,
+        "confidence": 0.873,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89538793322589,
+              11.381838222285413
+            ],
+            [
+              77.89538793322589,
+              11.38200801693676
+            ],
+            [
+              77.89522991567213,
+              11.38200801693676
+            ],
+            [
+              77.89522991567213,
+              11.381838222285413
+            ],
+            [
+              77.89538793322589,
+              11.381838222285413
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-039",
+        "parcel_id": "P-069",
+        "building_type": "Commercial Complex",
+        "area": 322.0,
+        "confidence": 0.977,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89581483307656,
+              11.381813568122498
+            ],
+            [
+              77.89581483307656,
+              11.381988584709719
+            ],
+            [
+              77.89563175241618,
+              11.381988584709719
+            ],
+            [
+              77.89563175241618,
+              11.381813568122498
+            ],
+            [
+              77.89581483307656,
+              11.381813568122498
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-040",
+        "parcel_id": "P-070",
+        "building_type": "Public Office",
+        "area": 384.5,
+        "confidence": 0.979,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8964055222886,
+              11.381836878303208
+            ],
+            [
+              77.8964055222886,
+              11.381969111733866
+            ],
+            [
+              77.89624240703347,
+              11.381969111733866
+            ],
+            [
+              77.89624240703347,
+              11.381836878303208
+            ],
+            [
+              77.8964055222886,
+              11.381836878303208
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-041",
+        "parcel_id": "P-072",
+        "building_type": "Residential Dwelling",
+        "area": 258.8,
+        "confidence": 0.95,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8968436489384,
+              11.381779220888964
+            ],
+            [
+              77.8968436489384,
+              11.381907890986712
+            ],
+            [
+              77.89665167701989,
+              11.381907890986712
+            ],
+            [
+              77.89665167701989,
+              11.381779220888964
+            ],
+            [
+              77.8968436489384,
+              11.381779220888964
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-042",
+        "parcel_id": "P-073",
+        "building_type": "Residential Dwelling",
+        "area": 296.4,
+        "confidence": 0.969,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89753965066005,
+              11.381831896167963
+            ],
+            [
+              77.89753965066005,
+              11.381989547430647
+            ],
+            [
+              77.89736438015326,
+              11.381989547430647
+            ],
+            [
+              77.89736438015326,
+              11.381831896167963
+            ],
+            [
+              77.89753965066005,
+              11.381831896167963
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-043",
+        "parcel_id": "P-075",
+        "building_type": "Public Office",
+        "area": 331.6,
+        "confidence": 0.893,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8982737394279,
+              11.38180117081278
+            ],
+            [
+              77.8982737394279,
+              11.381959081370114
+            ],
+            [
+              77.89808947735703,
+              11.381959081370114
+            ],
+            [
+              77.89808947735703,
+              11.38180117081278
+            ],
+            [
+              77.8982737394279,
+              11.38180117081278
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-044",
+        "parcel_id": "P-077",
+        "building_type": "Residential Dwelling",
+        "area": 349.2,
+        "confidence": 0.912,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89504600622212,
+              11.382047119305447
+            ],
+            [
+              77.89504600622212,
+              11.382176068845295
+            ],
+            [
+              77.8948538389595,
+              11.382176068845295
+            ],
+            [
+              77.8948538389595,
+              11.382047119305447
+            ],
+            [
+              77.89504600622212,
+              11.382047119305447
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-045",
+        "parcel_id": "P-079",
+        "building_type": "Residential Dwelling",
+        "area": 297.4,
+        "confidence": 0.94,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8953614568167,
+              11.382077630442552
+            ],
+            [
+              77.8953614568167,
+              11.38220670950871
+            ],
+            [
+              77.89516689653837,
+              11.38220670950871
+            ],
+            [
+              77.89516689653837,
+              11.382077630442552
+            ],
+            [
+              77.8953614568167,
+              11.382077630442552
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-046",
+        "parcel_id": "P-080",
+        "building_type": "Public Office",
+        "area": 301.4,
+        "confidence": 0.889,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89579357194094,
+              11.382074996007427
+            ],
+            [
+              77.89579357194094,
+              11.382253616337447
+            ],
+            [
+              77.89563365564872,
+              11.382253616337447
+            ],
+            [
+              77.89563365564872,
+              11.382074996007427
+            ],
+            [
+              77.89579357194094,
+              11.382074996007427
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-047",
+        "parcel_id": "P-081",
+        "building_type": "Public Office",
+        "area": 342.8,
+        "confidence": 0.974,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89617542471792,
+              11.382050285152298
+            ],
+            [
+              77.89617542471792,
+              11.38217631405697
+            ],
+            [
+              77.89598603869098,
+              11.38217631405697
+            ],
+            [
+              77.89598603869098,
+              11.382050285152298
+            ],
+            [
+              77.89617542471792,
+              11.382050285152298
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-048",
+        "parcel_id": "P-082",
+        "building_type": "Residential Dwelling",
+        "area": 286.4,
+        "confidence": 0.961,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89685321825522,
+              11.382065553936176
+            ],
+            [
+              77.89685321825522,
+              11.382232824811318
+            ],
+            [
+              77.89669803223472,
+              11.382232824811318
+            ],
+            [
+              77.89669803223472,
+              11.382065553936176
+            ],
+            [
+              77.89685321825522,
+              11.382065553936176
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-049",
+        "parcel_id": "P-084",
+        "building_type": "Residential Dwelling",
+        "area": 311.5,
+        "confidence": 0.968,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89722902927743,
+              11.382039218583332
+            ],
+            [
+              77.89722902927743,
+              11.382162843368468
+            ],
+            [
+              77.89701490932669,
+              11.382162843368468
+            ],
+            [
+              77.89701490932669,
+              11.382039218583332
+            ],
+            [
+              77.89722902927743,
+              11.382039218583332
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-050",
+        "parcel_id": "P-085",
+        "building_type": "Residential Dwelling",
+        "area": 317.6,
+        "confidence": 0.968,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89753093246615,
+              11.382072068942565
+            ],
+            [
+              77.89753093246615,
+              11.382201449392886
+            ],
+            [
+              77.89737893603413,
+              11.382201449392886
+            ],
+            [
+              77.89737893603413,
+              11.382072068942565
+            ],
+            [
+              77.89753093246615,
+              11.382072068942565
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-051",
+        "parcel_id": "P-086",
+        "building_type": "Commercial Complex",
+        "area": 236.0,
+        "confidence": 0.912,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89471257887593,
+              11.382342144392641
+            ],
+            [
+              77.89471257887593,
+              11.382496856223934
+            ],
+            [
+              77.89456156731174,
+              11.382496856223934
+            ],
+            [
+              77.89456156731174,
+              11.382342144392641
+            ],
+            [
+              77.89471257887593,
+              11.382342144392641
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-052",
+        "parcel_id": "P-089",
+        "building_type": "Residential Dwelling",
+        "area": 280.4,
+        "confidence": 0.944,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89507666776052,
+              11.382306453563581
+            ],
+            [
+              77.89507666776052,
+              11.382471800522277
+            ],
+            [
+              77.89486794513972,
+              11.382471800522277
+            ],
+            [
+              77.89486794513972,
+              11.382306453563581
+            ],
+            [
+              77.89507666776052,
+              11.382306453563581
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-053",
+        "parcel_id": "P-090",
+        "building_type": "Commercial Complex",
+        "area": 414.1,
+        "confidence": 0.897,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8953748465327,
+              11.382331257541116
+            ],
+            [
+              77.8953748465327,
+              11.382477157633978
+            ],
+            [
+              77.89521228529594,
+              11.382477157633978
+            ],
+            [
+              77.89521228529594,
+              11.382331257541116
+            ],
+            [
+              77.8953748465327,
+              11.382331257541116
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-054",
+        "parcel_id": "P-091",
+        "building_type": "Residential Dwelling",
+        "area": 284.6,
+        "confidence": 0.9,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89577748838053,
+              11.382331710122925
+            ],
+            [
+              77.89577748838053,
+              11.382506676831875
+            ],
+            [
+              77.89560783768592,
+              11.382506676831875
+            ],
+            [
+              77.89560783768592,
+              11.382331710122925
+            ],
+            [
+              77.89577748838053,
+              11.382331710122925
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-055",
+        "parcel_id": "P-092",
+        "building_type": "Commercial Complex",
+        "area": 356.2,
+        "confidence": 0.888,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89614994589684,
+              11.382332772194614
+            ],
+            [
+              77.89614994589684,
+              11.382484939701063
+            ],
+            [
+              77.89593133567426,
+              11.382484939701063
+            ],
+            [
+              77.89593133567426,
+              11.382332772194614
+            ],
+            [
+              77.89614994589684,
+              11.382332772194614
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-056",
+        "parcel_id": "P-093",
+        "building_type": "Residential Dwelling",
+        "area": 399.2,
+        "confidence": 0.909,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89643605333647,
+              11.382360689748783
+            ],
+            [
+              77.89643605333647,
+              11.382496575229714
+            ],
+            [
+              77.89622907354867,
+              11.382496575229714
+            ],
+            [
+              77.89622907354867,
+              11.382360689748783
+            ],
+            [
+              77.89643605333647,
+              11.382360689748783
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-057",
+        "parcel_id": "P-094",
+        "building_type": "Residential Dwelling",
+        "area": 337.5,
+        "confidence": 0.965,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89690928657093,
+              11.382335819990415
+            ],
+            [
+              77.89690928657093,
+              11.382460362651367
+            ],
+            [
+              77.89672699069781,
+              11.382460362651367
+            ],
+            [
+              77.89672699069781,
+              11.382335819990415
+            ],
+            [
+              77.89690928657093,
+              11.382335819990415
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-058",
+        "parcel_id": "P-095",
+        "building_type": "Residential Dwelling",
+        "area": 272.4,
+        "confidence": 0.887,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89722883723122,
+              11.382324612609155
+            ],
+            [
+              77.89722883723122,
+              11.382503300627707
+            ],
+            [
+              77.897052837026,
+              11.382503300627707
+            ],
+            [
+              77.897052837026,
+              11.382324612609155
+            ],
+            [
+              77.89722883723122,
+              11.382324612609155
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-059",
+        "parcel_id": "P-096",
+        "building_type": "Residential Dwelling",
+        "area": 377.4,
+        "confidence": 0.974,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89744985681286,
+              11.382389393825605
+            ],
+            [
+              77.89744985681286,
+              11.382518629894964
+            ],
+            [
+              77.89730548833892,
+              11.382518629894964
+            ],
+            [
+              77.89730548833892,
+              11.382389393825605
+            ],
+            [
+              77.89744985681286,
+              11.382389393825605
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-060",
+        "parcel_id": "P-097",
+        "building_type": "Residential Dwelling",
+        "area": 223.9,
+        "confidence": 0.887,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.897695229063,
+              11.382382668981748
+            ],
+            [
+              77.897695229063,
+              11.382502837743447
+            ],
+            [
+              77.89768387252306,
+              11.382502837743447
+            ],
+            [
+              77.89768387252306,
+              11.382382668981748
+            ],
+            [
+              77.897695229063,
+              11.382382668981748
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-061",
+        "parcel_id": "P-098",
+        "building_type": "Residential Dwelling",
+        "area": 16.4,
+        "confidence": 0.909,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89825183297089,
+              11.3823448560989
+            ],
+            [
+              77.89825183297089,
+              11.382517056802433
+            ],
+            [
+              77.8980509263952,
+              11.382517056802433
+            ],
+            [
+              77.8980509263952,
+              11.3823448560989
+            ],
+            [
+              77.89825183297089,
+              11.3823448560989
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-062",
+        "parcel_id": "P-099",
+        "building_type": "Residential Dwelling",
+        "area": 415.2,
+        "confidence": 0.923,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89476409583465,
+              11.38268961533226
+            ],
+            [
+              77.89476409583465,
+              11.382814238220474
+            ],
+            [
+              77.89455846570024,
+              11.382814238220474
+            ],
+            [
+              77.89455846570024,
+              11.38268961533226
+            ],
+            [
+              77.89476409583465,
+              11.38268961533226
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-063",
+        "parcel_id": "P-100",
+        "building_type": "Residential Dwelling",
+        "area": 307.5,
+        "confidence": 0.864,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89511450478489,
+              11.382704278475632
+            ],
+            [
+              77.89511450478489,
+              11.382871204761177
+            ],
+            [
+              77.8949008558169,
+              11.382871204761177
+            ],
+            [
+              77.8949008558169,
+              11.382704278475632
+            ],
+            [
+              77.89511450478489,
+              11.382704278475632
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-064",
+        "parcel_id": "P-101",
+        "building_type": "Commercial Complex",
+        "area": 428.0,
+        "confidence": 0.944,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89615022700293,
+              11.382733918048798
+            ],
+            [
+              77.89615022700293,
+              11.382859619979556
+            ],
+            [
+              77.89599607129448,
+              11.382859619979556
+            ],
+            [
+              77.89599607129448,
+              11.382733918048798
+            ],
+            [
+              77.89615022700293,
+              11.382733918048798
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-065",
+        "parcel_id": "P-104",
+        "building_type": "Residential Dwelling",
+        "area": 232.5,
+        "confidence": 0.882,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89685507485123,
+              11.382686586384345
+            ],
+            [
+              77.89685507485123,
+              11.382808785218321
+            ],
+            [
+              77.89669222155437,
+              11.382808785218321
+            ],
+            [
+              77.89669222155437,
+              11.382686586384345
+            ],
+            [
+              77.89685507485123,
+              11.382686586384345
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-066",
+        "parcel_id": "P-106",
+        "building_type": "Residential Dwelling",
+        "area": 238.8,
+        "confidence": 0.947,
+        "source": "Demo AI Prediction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.898276431025,
+              11.382708505172895
+            ],
+            [
+              77.898276431025,
+              11.382841292454975
+            ],
+            [
+              77.89810286157038,
+              11.382841292454975
+            ],
+            [
+              77.89810286157038,
+              11.382708505172895
+            ],
+            [
+              77.898276431025,
+              11.382708505172895
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "building_id": "B-067",
+        "parcel_id": "P-110",
+        "building_type": "Residential Dwelling",
+        "area": 276.6,
+        "confidence": 0.917,
+        "source": "Demo AI Prediction"
+      }
+    }
+  ]
+}

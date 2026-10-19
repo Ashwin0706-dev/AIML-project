@@ -1,0 +1,2813 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8944969246663,
+              11.379990685347096
+            ],
+            [
+              77.8948320731796,
+              11.37999692466631
+            ],
+            [
+              77.8948106853471,
+              11.380263766120976
+            ],
+            [
+              77.89450376612096,
+              11.3802720731796
+            ],
+            [
+              77.8944969246663,
+              11.379990685347096
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-001",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-001",
+        "recorded_area": 1024.223,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89483057443655,
+              11.380005580844909
+            ],
+            [
+              77.89512906520163,
+              11.380010574436563
+            ],
+            [
+              77.89514558084491,
+              11.380274752217522
+            ],
+            [
+              77.89483475221752,
+              11.380249065201632
+            ],
+            [
+              77.89483057443655,
+              11.380005580844909
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-002",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-002",
+        "recorded_area": 898.317,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89513019959102,
+              11.37999730600856
+            ],
+            [
+              77.89546509486462,
+              11.37999019959102
+            ],
+            [
+              77.89545730600857,
+              11.380249184692497
+            ],
+            [
+              77.8951291846925,
+              11.380265094864617
+            ],
+            [
+              77.89513019959102,
+              11.37999730600856
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-003",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-003",
+        "recorded_area": 1015.784,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89557083999827,
+              11.37998680972222
+            ],
+            [
+              77.89589207593998,
+              11.380010839998278
+            ],
+            [
+              77.89586680972221,
+              11.380252423716065
+            ],
+            [
+              77.89555242371605,
+              11.380272075939988
+            ],
+            [
+              77.89557083999827,
+              11.37998680972222
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-004",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-004",
+        "recorded_area": 975.044,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89589259412489,
+              11.380014632979089
+            ],
+            [
+              77.89621427656664,
+              11.380012594124903
+            ],
+            [
+              77.89621463297908,
+              11.380264430338189
+            ],
+            [
+              77.89588443033817,
+              11.380274276566645
+            ],
+            [
+              77.89589259412489,
+              11.380014632979089
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-005",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-005",
+        "recorded_area": 970.0,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89618575106653,
+              11.379999929817478
+            ],
+            [
+              77.89651634047036,
+              11.37998575106654
+            ],
+            [
+              77.89651992981747,
+              11.380256551895025
+            ],
+            [
+              77.89619655189502,
+              11.380256340470355
+            ],
+            [
+              77.89618575106653,
+              11.379999929817478
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-006",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-006",
+        "recorded_area": 1003.8530000000001,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89661647217878,
+              11.379989160063742
+            ],
+            [
+              77.89693785304276,
+              11.379996472178776
+            ],
+            [
+              77.89692916006375,
+              11.38025433357635
+            ],
+            [
+              77.89661433357635,
+              11.380257853042755
+            ],
+            [
+              77.89661647217878,
+              11.379989160063742
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-007",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-007",
+        "recorded_area": 974.947,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89692898601297,
+              11.380001623574314
+            ],
+            [
+              77.89724755842896,
+              11.37998898601296
+            ],
+            [
+              77.89726162357431,
+              11.380253574285808
+            ],
+            [
+              77.89693357428581,
+              11.380247558428957
+            ],
+            [
+              77.89692898601297,
+              11.380001623574314
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-008",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-008",
+        "recorded_area": 960.979,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89725596273507,
+              11.379985739500418
+            ],
+            [
+              77.89757893837154,
+              11.379995962735082
+            ],
+            [
+              77.89756573950041,
+              11.380255760812814
+            ],
+            [
+              77.8972557608128,
+              11.380258938371549
+            ],
+            [
+              77.89725596273507,
+              11.379985739500418
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-009",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-009",
+        "recorded_area": 982.0279999999999,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89449666066433,
+              11.38025540480293
+            ],
+            [
+              77.89482561325984,
+              11.380256660664342
+            ],
+            [
+              77.89481540480293,
+              11.38052058168637
+            ],
+            [
+              77.89450058168636,
+              11.380525613259847
+            ],
+            [
+              77.89449666066433,
+              11.38025540480293
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-010",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-010",
+        "recorded_area": 1000.555,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89514,
+              11.380260000000002
+            ],
+            [
+              77.89514,
+              11.380520000000002
+            ],
+            [
+              77.8947,
+              11.380520000000002
+            ],
+            [
+              77.8947,
+              11.380260000000002
+            ],
+            [
+              77.89514,
+              11.380260000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-011",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-011",
+        "recorded_area": 1331.616,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89512603377165,
+              11.380254666810927
+            ],
+            [
+              77.8954522270317,
+              11.380246033771646
+            ],
+            [
+              77.89545466681092,
+              11.380518494366715
+            ],
+            [
+              77.8951384943667,
+              11.380512227031707
+            ],
+            [
+              77.89512603377165,
+              11.380254666810927
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-012",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-012",
+        "recorded_area": 990.855,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89554742746141,
+              11.380246583656612
+            ],
+            [
+              77.8958743094998,
+              11.380247427461422
+            ],
+            [
+              77.8958665836566,
+              11.380505949880488
+            ],
+            [
+              77.89554594988047,
+              11.38051430949982
+            ],
+            [
+              77.89554742746141,
+              11.380246583656612
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-013",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-013",
+        "recorded_area": 991.437,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89589461665572,
+              11.380264874478183
+            ],
+            [
+              77.89620743241883,
+              11.38027461665573
+            ],
+            [
+              77.89620487447817,
+              11.38051808838986
+            ],
+            [
+              77.89587808838985,
+              11.380527432418845
+            ],
+            [
+              77.89589461665572,
+              11.380264874478183
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-014",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-014",
+        "recorded_area": 941.87,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89619653981201,
+              11.380274148816836
+            ],
+            [
+              77.8965338479246,
+              11.380256539812025
+            ],
+            [
+              77.89653414881683,
+              11.380526985157026
+            ],
+            [
+              77.89620698515702,
+              11.38053384792461
+            ],
+            [
+              77.89619653981201,
+              11.380274148816836
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-015",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-015",
+        "recorded_area": 1025.8719999999998,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89663477818237,
+              11.380271816936395
+            ],
+            [
+              77.89693401030802,
+              11.380274778182384
+            ],
+            [
+              77.8969518169364,
+              11.380523442682467
+            ],
+            [
+              77.89662344268247,
+              11.380514010308017
+            ],
+            [
+              77.89663477818237,
+              11.380271816936395
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-016",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-016",
+        "recorded_area": 896.28,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89693343960073,
+              11.380271396592684
+            ],
+            [
+              77.89727248587283,
+              11.380253439600736
+            ],
+            [
+              77.89727139659269,
+              11.380510694958332
+            ],
+            [
+              77.89693069495833,
+              11.38053248587283
+            ],
+            [
+              77.89693343960073,
+              11.380271396592684
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-017",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-017",
+        "recorded_area": 1024.9019999999998,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89725477999973,
+              11.380250985920883
+            ],
+            [
+              77.89757671227355,
+              11.380254779999742
+            ],
+            [
+              77.89757098592088,
+              11.380523152494305
+            ],
+            [
+              77.89726315249429,
+              11.380516712273565
+            ],
+            [
+              77.89725477999973,
+              11.380250985920883
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-018",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-018",
+        "recorded_area": 978.73,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89449697193858,
+              11.380525705445221
+            ],
+            [
+              77.89482598277256,
+              11.38051697193859
+            ],
+            [
+              77.89482570544521,
+              11.380772398789233
+            ],
+            [
+              77.89449239878923,
+              11.380785982772572
+            ],
+            [
+              77.89449697193858,
+              11.380525705445221
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-019",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-019",
+        "recorded_area": 993.668,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89482,
+              11.38052
+            ],
+            [
+              77.89514,
+              11.380780000000001
+            ],
+            [
+              77.89514,
+              11.38052
+            ],
+            [
+              77.89482,
+              11.380780000000001
+            ],
+            [
+              77.89482,
+              11.38052
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-020",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-020",
+        "recorded_area": 242.5,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89514564950815,
+              11.380517063016862
+            ],
+            [
+              77.89546928645302,
+              11.380525649508158
+            ],
+            [
+              77.89545706301686,
+              11.380774998457493
+            ],
+            [
+              77.8951349984575,
+              11.380789286453028
+            ],
+            [
+              77.89514564950815,
+              11.380517063016862
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-021",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-021",
+        "recorded_area": 979.603,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8955561883286,
+              11.380510524890504
+            ],
+            [
+              77.8958740492628,
+              11.380516188328604
+            ],
+            [
+              77.8958705248905,
+              11.380774734490307
+            ],
+            [
+              77.89555473449029,
+              11.380774049262815
+            ],
+            [
+              77.8955561883286,
+              11.380510524890504
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-022",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-022",
+        "recorded_area": 962.725,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89588817368676,
+              11.380531452742016
+            ],
+            [
+              77.89619116556682,
+              11.380528173686768
+            ],
+            [
+              77.89621145274201,
+              11.380789804160225
+            ],
+            [
+              77.89588980416022,
+              11.380771165566822
+            ],
+            [
+              77.89588817368676,
+              11.380531452742016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-023",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-023",
+        "recorded_area": 910.345,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89618784723412,
+              11.380527104477814
+            ],
+            [
+              77.89651850503066,
+              11.380507847234123
+            ],
+            [
+              77.89652710447781,
+              11.38078529936872
+            ],
+            [
+              77.89620529936872,
+              11.380778505030664
+            ],
+            [
+              77.89618784723412,
+              11.380527104477814
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-024",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-024",
+        "recorded_area": 1005.0169999999999,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89661856389053,
+              11.380508981668982
+            ],
+            [
+              77.8969442647305,
+              11.380518563890522
+            ],
+            [
+              77.89692898166898,
+              11.38077113348777
+            ],
+            [
+              77.89661113348777,
+              11.380784264730494
+            ],
+            [
+              77.89661856389053,
+              11.380508981668982
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-025",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-025",
+        "recorded_area": 988.333,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89693409100082,
+              11.380526932720022
+            ],
+            [
+              77.89726536231177,
+              11.380514091000817
+            ],
+            [
+              77.89726693272003,
+              11.38078073561841
+            ],
+            [
+              77.89694073561841,
+              11.380785362311764
+            ],
+            [
+              77.89693409100082,
+              11.380526932720022
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-026",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-026",
+        "recorded_area": 1005.0169999999999,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89727247937668,
+              11.380515118408331
+            ],
+            [
+              77.89758156428074,
+              11.380532479376695
+            ],
+            [
+              77.89757511840833,
+              11.380785839995015
+            ],
+            [
+              77.897265839995,
+              11.380781564280754
+            ],
+            [
+              77.89727247937668,
+              11.380515118408331
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-027",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-027",
+        "recorded_area": 936.147,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89451129166972,
+              11.38089059076385
+            ],
+            [
+              77.89481659334953,
+              11.38089129166973
+            ],
+            [
+              77.89483059076385,
+              11.381137563579442
+            ],
+            [
+              77.89449756357943,
+              11.381136593349531
+            ],
+            [
+              77.89451129166972,
+              11.38089059076385
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-028",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-028",
+        "recorded_area": 914.419,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89482820596369,
+              11.380894799340608
+            ],
+            [
+              77.89513684759238,
+              11.380888205963702
+            ],
+            [
+              77.8951547993406,
+              11.381144883841516
+            ],
+            [
+              77.89482488384151,
+              11.381136847592382
+            ],
+            [
+              77.89482820596369,
+              11.380894799340608
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-029",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-029",
+        "recorded_area": 926.641,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8951344741653,
+              11.38087118857626
+            ],
+            [
+              77.8954686923609,
+              11.380874474165303
+            ],
+            [
+              77.89545118857626,
+              11.381137519410057
+            ],
+            [
+              77.89513751941006,
+              11.381148692360892
+            ],
+            [
+              77.8951344741653,
+              11.38087118857626
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-030",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-030",
+        "recorded_area": 1018.7909999999999,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89555823456415,
+              11.380877864315464
+            ],
+            [
+              77.89587167940164,
+              11.380878234564166
+            ],
+            [
+              77.89587786431545,
+              11.381137449024614
+            ],
+            [
+              77.89555744902461,
+              11.38113167940165
+            ],
+            [
+              77.89555823456415,
+              11.380877864315464
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-031",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-031",
+        "recorded_area": 946.235,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89587221342741,
+              11.38087383767159
+            ],
+            [
+              77.89620927859374,
+              11.380872213427422
+            ],
+            [
+              77.89619383767158,
+              11.38115163852855
+            ],
+            [
+              77.89589163852854,
+              11.381149278593753
+            ],
+            [
+              77.89587221342741,
+              11.38087383767159
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-032",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-032",
+        "recorded_area": 1032.177,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89620958109761,
+              11.380870351529653
+            ],
+            [
+              77.8965294804753,
+              11.380889581097613
+            ],
+            [
+              77.89651035152964,
+              11.38113881344675
+            ],
+            [
+              77.89619881344674,
+              11.381149480475301
+            ],
+            [
+              77.89620958109761,
+              11.380870351529653
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-033",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-033",
+        "recorded_area": 971.552,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89661428036386,
+              11.380876177105314
+            ],
+            [
+              77.89693146566076,
+              11.380874280363862
+            ],
+            [
+              77.89693617710532,
+              11.381146284410274
+            ],
+            [
+              77.89662628441027,
+              11.381131465660753
+            ],
+            [
+              77.89661428036386,
+              11.380876177105314
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-034",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-034",
+        "recorded_area": 961.5609999999999,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89726,
+              11.380880000000001
+            ],
+            [
+              77.89726,
+              11.381140000000002
+            ],
+            [
+              77.89682,
+              11.381140000000002
+            ],
+            [
+              77.89682,
+              11.380880000000001
+            ],
+            [
+              77.89726,
+              11.380880000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-035",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-035",
+        "recorded_area": 1331.616,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8972538266963,
+              11.380881084677561
+            ],
+            [
+              77.89759483010515,
+              11.380873826696316
+            ],
+            [
+              77.89758108467755,
+              11.381125701302821
+            ],
+            [
+              77.89724570130281,
+              11.381154830105165
+            ],
+            [
+              77.8972538266963,
+              11.380881084677561
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-036",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-036",
+        "recorded_area": 1032.2740000000001,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89448537278376,
+              11.381135221271657
+            ],
+            [
+              77.894834748651,
+              11.381125372783773
+            ],
+            [
+              77.89481522127166,
+              11.381399516556758
+            ],
+            [
+              77.89449951655675,
+              11.381414748651
+            ],
+            [
+              77.89448537278376,
+              11.381135221271657
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-037",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-037",
+        "recorded_area": 1071.1709999999998,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89481378603473,
+              11.381135267459534
+            ],
+            [
+              77.89513818169348,
+              11.381133786034736
+            ],
+            [
+              77.89513526745954,
+              11.381402442255583
+            ],
+            [
+              77.89482244225557,
+              11.38139818169349
+            ],
+            [
+              77.89481378603473,
+              11.381135267459534
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-038",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-038",
+        "recorded_area": 985.617,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89514102229472,
+              11.381146235707849
+            ],
+            [
+              77.89546486623955,
+              11.381141022294722
+            ],
+            [
+              77.89546623570784,
+              11.38139313220718
+            ],
+            [
+              77.89513313220718,
+              11.381404866239551
+            ],
+            [
+              77.89514102229472,
+              11.381146235707849
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-039",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-039",
+        "recorded_area": 976.1109999999999,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89554630115374,
+              11.381141834394292
+            ],
+            [
+              77.89586884368711,
+              11.38112630115376
+            ],
+            [
+              77.89588183439429,
+              11.381400590784098
+            ],
+            [
+              77.89556059078409,
+              11.381388843687128
+            ],
+            [
+              77.89554630115374,
+              11.381141834394292
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-040",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-040",
+        "recorded_area": 976.887,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89587593064743,
+              11.381130010350734
+            ],
+            [
+              77.89619977952157,
+              11.381135930647448
+            ],
+            [
+              77.89619001035072,
+              11.381405406334531
+            ],
+            [
+              77.89588540633453,
+              11.381399779521576
+            ],
+            [
+              77.89587593064743,
+              11.381130010350734
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-041",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-041",
+        "recorded_area": 986.1990000000001,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89621023863053,
+              11.38114445556452
+            ],
+            [
+              77.89650575449487,
+              11.381150238630541
+            ],
+            [
+              77.89652445556452,
+              11.381399751843867
+            ],
+            [
+              77.89619975184387,
+              11.38138575449487
+            ],
+            [
+              77.89621023863053,
+              11.38114445556452
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-042",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-042",
+        "recorded_area": 885.3190000000001,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89660715664795,
+              11.381131373519842
+            ],
+            [
+              77.89692994154305,
+              11.381127156647947
+            ],
+            [
+              77.89693137351985,
+              11.381405492410217
+            ],
+            [
+              77.89662549241021,
+              11.381389941543045
+            ],
+            [
+              77.89660715664795,
+              11.381131373519842
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-043",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-043",
+        "recorded_area": 981.543,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89694,
+              11.38114
+            ],
+            [
+              77.89696,
+              11.38114
+            ],
+            [
+              77.89696,
+              11.381400000000001
+            ],
+            [
+              77.89694,
+              11.381400000000001
+            ],
+            [
+              77.89694,
+              11.38114
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-044",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-044",
+        "recorded_area": 60.528,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89726462799635,
+              11.381138407702258
+            ],
+            [
+              77.89759172551449,
+              11.381144627996363
+            ],
+            [
+              77.89757840770224,
+              11.381414440356181
+            ],
+            [
+              77.89727444035617,
+              11.381411725514495
+            ],
+            [
+              77.89726462799635,
+              11.381138407702258
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-045",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-045",
+        "recorded_area": 997.4509999999999,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8944989193045,
+              11.381413300976043
+            ],
+            [
+              77.8948067136186,
+              11.38139891930451
+            ],
+            [
+              77.89483330097603,
+              11.381648457160225
+            ],
+            [
+              77.89448845716022,
+              11.381646713618613
+            ],
+            [
+              77.8944989193045,
+              11.381413300976043
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-046",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-046",
+        "recorded_area": 917.814,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89483107496214,
+              11.381389039223192
+            ],
+            [
+              77.89515429406256,
+              11.381411074962152
+            ],
+            [
+              77.89512903922319,
+              11.381670403523055
+            ],
+            [
+              77.89483040352304,
+              11.381674294062572
+            ],
+            [
+              77.89483107496214,
+              11.381389039223192
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-047",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-047",
+        "recorded_area": 986.8779999999999,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89513310111795,
+              11.381409778645082
+            ],
+            [
+              77.8954744445784,
+              11.381393101117956
+            ],
+            [
+              77.89546977864508,
+              11.38166865327674
+            ],
+            [
+              77.89514865327673,
+              11.3816744445784
+            ],
+            [
+              77.89513310111795,
+              11.381409778645082
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-048",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-048",
+        "recorded_area": 1042.1680000000001,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89554995208464,
+              11.38140974614786
+            ],
+            [
+              77.89587601071135,
+              11.381389952084648
+            ],
+            [
+              77.89588974614784,
+              11.381659107990227
+            ],
+            [
+              77.89555910799021,
+              11.38165601071136
+            ],
+            [
+              77.89554995208464,
+              11.38140974614786
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-049",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-049",
+        "recorded_area": 986.102,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89554995208464,
+              11.38140974614786
+            ],
+            [
+              77.89587601071135,
+              11.381389952084648
+            ],
+            [
+              77.89588974614784,
+              11.381659107990227
+            ],
+            [
+              77.89555910799021,
+              11.38165601071136
+            ],
+            [
+              77.89554995208464,
+              11.38140974614786
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-050",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-050",
+        "recorded_area": 986.102,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89619658514412,
+              11.381406966527901
+            ],
+            [
+              77.89650520266838,
+              11.38139658514413
+            ],
+            [
+              77.8965269665279,
+              11.381660825436283
+            ],
+            [
+              77.89620082543628,
+              11.38164520266839
+            ],
+            [
+              77.89619658514412,
+              11.381406966527901
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-051",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-051",
+        "recorded_area": 927.708,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89661459665999,
+              11.381399701737843
+            ],
+            [
+              77.89693146971655,
+              11.381394596659993
+            ],
+            [
+              77.89693970173785,
+              11.381667465395543
+            ],
+            [
+              77.89662746539554,
+              11.381651469716545
+            ],
+            [
+              77.89661459665999,
+              11.381399701737843
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-052",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-052",
+        "recorded_area": 959.8149999999999,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89694623000493,
+              11.381399726279522
+            ],
+            [
+              77.89724638238087,
+              11.381406230004936
+            ],
+            [
+              77.89725972627953,
+              11.381662690794126
+            ],
+            [
+              77.89694269079412,
+              11.381646382380874
+            ],
+            [
+              77.89694623000493,
+              11.381399726279522
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-053",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-053",
+        "recorded_area": 902.973,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8972658939593,
+              11.381402275312857
+            ],
+            [
+              77.89757677783832,
+              11.38140589395932
+            ],
+            [
+              77.89758227531284,
+              11.381652868397815
+            ],
+            [
+              77.8972528683978,
+              11.381656777838343
+            ],
+            [
+              77.8972658939593,
+              11.381402275312857
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-054",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-054",
+        "recorded_area": 934.401,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89449389578078,
+              11.38174655444829
+            ],
+            [
+              77.89480939627569,
+              11.381753895780793
+            ],
+            [
+              77.89480655444828,
+              11.38201219975572
+            ],
+            [
+              77.89449219975572,
+              11.382009396275699
+            ],
+            [
+              77.89449389578078,
+              11.38174655444829
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-055",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-055",
+        "recorded_area": 955.353,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89481045426503,
+              11.381772835920723
+            ],
+            [
+              77.89514461741729,
+              11.381750454265028
+            ],
+            [
+              77.89515283592071,
+              11.38203015766659
+            ],
+            [
+              77.89483015766659,
+              11.382024617417288
+            ],
+            [
+              77.89481045426503,
+              11.381772835920723
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-056",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-056",
+        "recorded_area": 1017.239,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89513584811172,
+              11.381769028086
+            ],
+            [
+              77.89545175496478,
+              11.381755848111718
+            ],
+            [
+              77.895469028086,
+              11.382033979773846
+            ],
+            [
+              77.89515397977384,
+              11.382011754964779
+            ],
+            [
+              77.89513584811172,
+              11.381769028086
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-057",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-057",
+        "recorded_area": 955.4499999999999,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8955641565305,
+              11.381763911178453
+            ],
+            [
+              77.89589457661631,
+              11.38176415653051
+            ],
+            [
+              77.89588391117844,
+              11.382015225171113
+            ],
+            [
+              77.8955552251711,
+              11.382034576616327
+            ],
+            [
+              77.8955641565305,
+              11.381763911178453
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-058",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-058",
+        "recorded_area": 999.5849999999999,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89586528027822,
+              11.38176299462162
+            ],
+            [
+              77.8961952426316,
+              11.381745280278224
+            ],
+            [
+              77.89620299462162,
+              11.382031252457178
+            ],
+            [
+              77.89589125245716,
+              11.382015242631615
+            ],
+            [
+              77.89586528027822,
+              11.38176299462162
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-059",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-059",
+        "recorded_area": 1005.2109999999999,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89618684717082,
+              11.381760378353734
+            ],
+            [
+              77.89651064286566,
+              11.381746847170831
+            ],
+            [
+              77.89652037835373,
+              11.38202500699083
+            ],
+            [
+              77.89620500699083,
+              11.382010642865675
+            ],
+            [
+              77.89618684717082,
+              11.381760378353734
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-060",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-060",
+        "recorded_area": 982.804,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89662245270621,
+              11.381763126388641
+            ],
+            [
+              77.89693553010954,
+              11.381762452706207
+            ],
+            [
+              77.89694312638863,
+              11.382028850939344
+            ],
+            [
+              77.89662885093934,
+              11.382015530109548
+            ],
+            [
+              77.89662245270621,
+              11.381763126388641
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-061",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-061",
+        "recorded_area": 946.6229999999999,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89726,
+              11.381760000000002
+            ],
+            [
+              77.89726,
+              11.382020000000002
+            ],
+            [
+              77.89682,
+              11.382020000000002
+            ],
+            [
+              77.89682,
+              11.381760000000002
+            ],
+            [
+              77.89726,
+              11.381760000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-062",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-062",
+        "recorded_area": 1331.616,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89724572469866,
+              11.381772121988226
+            ],
+            [
+              77.89758670185114,
+              11.381745724698673
+            ],
+            [
+              77.89759212198821,
+              11.382028775451737
+            ],
+            [
+              77.89726877545172,
+              11.382026701851144
+            ],
+            [
+              77.89724572469866,
+              11.381772121988226
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-063",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-063",
+        "recorded_area": 1041.3919999999998,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89450607201125,
+              11.382023069861301
+            ],
+            [
+              77.89483329068834,
+              11.382026072011268
+            ],
+            [
+              77.8948230698613,
+              11.382268384972653
+            ],
+            [
+              77.89448838497265,
+              11.382293290688343
+            ],
+            [
+              77.89450607201125,
+              11.382023069861301
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-064",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-064",
+        "recorded_area": 985.423,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89482646884139,
+              11.38203204186179
+            ],
+            [
+              77.89515144809663,
+              11.38202646884139
+            ],
+            [
+              77.89515204186179,
+              11.38228145700798
+            ],
+            [
+              77.89482145700798,
+              11.382291448096636
+            ],
+            [
+              77.89482646884139,
+              11.38203204186179
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-065",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-065",
+        "recorded_area": 981.058,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89512772191719,
+              11.382033975110966
+            ],
+            [
+              77.89547447978147,
+              11.3820077219172
+            ],
+            [
+              77.89547397511096,
+              11.382277339657122
+            ],
+            [
+              77.89513733965713,
+              11.382294479781468
+            ],
+            [
+              77.89512772191719,
+              11.382033975110966
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-066",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-066",
+        "recorded_area": 1055.36,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89556588650734,
+              11.382023857063945
+            ],
+            [
+              77.8958926478191,
+              11.382025886507357
+            ],
+            [
+              77.89588385706394,
+              11.38227344386901
+            ],
+            [
+              77.895553443869,
+              11.382292647819101
+            ],
+            [
+              77.89556588650734,
+              11.382023857063945
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-067",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-067",
+        "recorded_area": 986.3929999999999,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8958670051733,
+              11.38201235670957
+            ],
+            [
+              77.89619584609798,
+              11.38200700517331
+            ],
+            [
+              77.89619235670956,
+              11.382290048567224
+            ],
+            [
+              77.89589004856721,
+              11.382275846097988
+            ],
+            [
+              77.8958670051733,
+              11.38201235670957
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-068",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-068",
+        "recorded_area": 1003.271,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89621246676731,
+              11.382006332529828
+            ],
+            [
+              77.89653369889643,
+              11.382032466767319
+            ],
+            [
+              77.89650633252982,
+              11.382281011927516
+            ],
+            [
+              77.8962010119275,
+              11.382293698896445
+            ],
+            [
+              77.89621246676731,
+              11.382006332529828
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-069",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-069",
+        "recorded_area": 978.6329999999999,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89661465406593,
+              11.382022270475252
+            ],
+            [
+              77.89693986163716,
+              11.382014654065928
+            ],
+            [
+              77.89694227047525,
+              11.382265048584467
+            ],
+            [
+              77.89660504858446,
+              11.38227986163716
+            ],
+            [
+              77.89661465406593,
+              11.382022270475252
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-070",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-070",
+        "recorded_area": 978.73,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.89694046609469,
+              11.382020874876703
+            ],
+            [
+              77.8972495112656,
+              11.382020466094696
+            ],
+            [
+              77.89726087487671,
+              11.382283888868056
+            ],
+            [
+              77.89694388886805,
+              11.382269511265601
+            ],
+            [
+              77.89694046609469,
+              11.382020874876703
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-071",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-071",
+        "recorded_area": 932.267,
+        "survey_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8972746566381,
+              11.382028868218061
+            ],
+            [
+              77.89757085216172,
+              11.382034656638114
+            ],
+            [
+              77.89758886821805,
+              11.382274354588716
+            ],
+            [
+              77.8972543545887,
+              11.38227085216173
+            ],
+            [
+              77.8972746566381,
+              11.382028868218061
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "SURV-072",
+        "revenue_village": "Tiruchengode",
+        "ward": "04",
+        "block": "02",
+        "owner_record": "Municipal Record SURV-072",
+        "recorded_area": 884.155,
+        "survey_year": 2018
+      }
+    }
+  ]
+}

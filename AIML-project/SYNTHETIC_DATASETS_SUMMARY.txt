@@ -1,0 +1,9 @@
+AI URBAN CADASTRAL MAPPING — SYNTHETIC DATASET ADDITION
+
+Added three paired image/mask datasets under data/synthetic_datasets/:
+- parcel_boundaries: 60 pairs
+- building_footprints: 60 pairs
+- road_extraction: 60 pairs
+Total: 180 pairs (360 image/mask PNG files)
+Each dataset split: 42 train / 9 validation / 9 test.
+All samples are procedurally generated synthetic examples. They are not genuine drone imagery or legally reliable cadastral ground truth.
